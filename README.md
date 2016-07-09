@@ -1,6 +1,6 @@
 # mlnote
 
-[TOC
+[TOC]
 
 machine learning note
 
