@@ -1,0 +1,17 @@
+[project]
+name = "mlnote"
+version = "0.1.0"
+description = "mlnote "
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "torch>=2.7.0",
+    "torchaudio>=2.7.0",
+    "torchrl>=0.8.0",
+    "torchvision>=0.22.0",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=6.29.5",
+]
